@@ -6,7 +6,7 @@
 .header{
   min-height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)),url(images/digisignage.jpeg);
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)),url(digisignage.jpeg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -253,7 +253,7 @@ h3{
 .cta{
   margin: 100px auto;
   width: 80%;
-  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(images/ds1.png);
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(ds1.png);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
@@ -290,7 +290,7 @@ h3{
 .sub-header{
   height: 60vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/menuboard.jpeg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(menuboard.jpeg);
   background-position: bottom;
   background-size: cover;
   text-align: center;
@@ -299,7 +299,7 @@ h3{
 .sub-header1{
   height: 50vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/bannerheader.jpeg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(bannerheader.jpeg);
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -308,7 +308,7 @@ h3{
 .sub-header2{
   height: 50vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/webdev.jpeg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(webdev.jpeg);
   background-position: bottom;
   background-size: cover;
   text-align: center;
@@ -317,7 +317,7 @@ h3{
 .sub-header3{
   height: 50vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/digisignage.jpeg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(digisignage.jpeg);
   background-position: top;
   background-size: cover;
   text-align: center;
@@ -326,7 +326,7 @@ h3{
 .sub-header4{
   height: 50vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/contact.jpeg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(contact.jpeg);
   background-position: center;
   background-size: cover;
   text-align: center;
